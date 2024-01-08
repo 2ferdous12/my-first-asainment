@@ -492,12 +492,14 @@ border-bottom: 2px solid  rgba(255, 255, 255, 0.15);;
 border-width: 2px;
 
 }
-
 footer{
+    background: #070211;
+}
+.footer{
     max-width: 1320px;
     width: 100%;
     margin: 0 auto;
-    background: #070211;
+   
     height: 550px;
     margin-bottom: 100px;
 }
