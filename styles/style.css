@@ -117,6 +117,8 @@ margin-bottom: 40px;
     font-weight: 900;
     line-height: 88px; 
     letter-spacing: 7px;  
+    max-width: 500px;
+    width: 100%;
 }
 
 .happy-new .newyear p{
@@ -140,10 +142,11 @@ margin-bottom: 40px;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 0 100px;
-    margin: 100px;
-}
+ 
+    
 
+
+}
 .happy-new .newyear h1{
     color: #FFF;
     font-size: 64px;
@@ -340,6 +343,43 @@ text-align: center;
     width: 100%;
     text-align: center;
     margin: 0 auto;
+}
+
+.shop-contain{
+    max-width: 1320px;
+    width: 100%;
+    margin: 20px auto;
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+
+
+.shop-contain h5{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.shop-contain h3{
+color: #070211;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.shop-contain p{
+color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+width: 100%;
+max-width: 800px;
 }
 
 
