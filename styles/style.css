@@ -1,0 +1,351 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&family=Merriweather:wght@700&family=Open+Sans:wght@800&display=swap');
+
+.container{
+    width: 82%;
+    max-width: 1320px;
+    margin: 0 auto;
+    background-image: url('../images/Banner\ Image.png');
+    height: 600px;
+   
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;
+}
+
+.container .banner-text{
+text-align: center;
+
+
+
+    
+   
+}
+
+.content{
+    padding: 100px;
+}
+
+
+.container .banner-text h3{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+
+}
+
+.container .banner-text h1{
+    color: #FFF;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px; 
+max-width: 600px;
+    width: 100%;
+    margin:20px auto ;
+    
+    
+}
+
+.containtor{
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.section-container{
+   text-align: center;
+}
+
+.section-container .section-text h1{
+    color: #F00;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 20px;
+   
+}
+
+.section-container .section-text h5{
+    color: #F00;
+
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.section-container .section-text h2{
+    color: #070211;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 40px;
+}
+
+
+.section-image img{
+    max-width: 550px;
+    width: 100%;
+}
+
+.container-new{
+   margin: 100px;
+    width: 82%;
+    max-width: 1320px;
+    margin: 0 auto;
+    height: 500px;
+    background-image: url('../images/Vectorrr.png');
+}
+
+.happy-new .newyear h1{
+    color: #FFF;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px; 
+    letter-spacing: 7px;  
+}
+
+.happy-new .newyear p{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.happy-new .newyear h3{
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.happy-new{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 100px;
+    margin: 100px;
+}
+
+.happy-new .newyear h1{
+    color: #FFF;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7px;
+    max-width: 600px;
+    width: 100%;
+    margin-bottom: 10px;
+
+
+}
+
+.happy-new .newyear p{
+    color: rgba(255, 255, 255, 0.80);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+width: 100%;
+max-width: 700px;
+margin-bottom: 35px;
+
+}
+
+.happy-new .newyear h3{
+    color: #FFF;
+    text-align: left;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    padding: 0 40px;
+}
+
+.pink-container{
+    width: 82%;
+    max-width: 1320px;
+    margin: 0 auto;
+    height: 400px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);;
+}
+span{
+    color: #F00;
+}
+
+.pink-text-section h3{
+    color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+margin-bottom: 28px;
+
+}
+
+.pink-text-section button{
+    background: #F00;
+    padding:15px 32px;
+    font-size: 26px;
+    color: white;
+    font-weight: bold;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.pink-text-section{
+    align-items: center;
+    padding: 80px;
+}
+
+.latest-container{
+    width: 82%;
+    max-width: 1320px;
+    margin: 0 auto; 
+    background: #FFF;
+    margin-bottom: 100px;
+}
+
+.latest-container .main-section{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.latest-container .main-section h5{
+    color: #F00;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.latest-container .main-section h3{
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.latest-container .main-section p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+    max-width: 370px;
+    width: 100%;
+}
+/* 
+.square {
+border-style: solid;
+border-color: red;
+border-width: 10px;
+border-radius: px;
+} */
+
+.square img{
+    border-style: solid;
+    border-color: red;
+    border-width: 12px;
+    border-radius: 220px;
+    padding: 20px;
+}
+
+.latest-container .main-section .dolor h3{
+    color: #F00;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.latest-container .main-section .dolor p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    max-width: 220px;
+    width: 100%;
+
+}
+
+.latest-container .main-section .dolor img{
+    max-width: 140px;
+    width: 100%;
+}
+
+.main-container{
+max-width: 1320px;
+width: 82%;
+margin: 0 auto;
+background: #FFF;
+}
+
+
+.main-container-sec{
+text-align: center;
+}
+
+.main-container h5{
+    color: #070211;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.main-container .main-container-sec h1{
+    color: #070211;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-top: 20px;
+}
+
+.main-container-sec p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; 
+    max-width: 960px;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+ 
